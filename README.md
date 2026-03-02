@@ -1,2 +1,2 @@
-# LogicOfTEA
-testing of TEA
+# TEA
+
